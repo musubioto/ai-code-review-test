@@ -1,0 +1,3 @@
+review_target,comment_or_finding,classification,correct_finding,fix_is_correct,notes
+buggy,,"correct / false positive / unclear / missed",,,
+clean,,"correct / false positive / unclear / missed",,,
